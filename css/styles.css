@@ -7,6 +7,13 @@ body {background: aqua;
 
 
 
-#leftcol {background: blue;}
-#rightcol {background: red;}
+#leftcol {background: blue;
+width: 300px;
+}
+
+#rightcol {background: red;
+width: 300px;
+}
+
+/*navigation*/
 
